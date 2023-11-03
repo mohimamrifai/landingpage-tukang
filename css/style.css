@@ -272,6 +272,7 @@ a:focus {
   background-color: #ffffff;
   color: #0C356A;
   transition: all 0.3s;
+  border-radius: 10px;
   box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2);
 }
 .feature_section .feature_container .box .img-box {
@@ -382,6 +383,7 @@ a:focus {
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-radius: 10px;
 }
 .service_section .box .img-box {
   width: 65px;
@@ -441,6 +443,7 @@ a:focus {
   margin: 15px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
   padding: 25px;
+  border-radius: 10px;
 }
 .client_section .box .client_id {
   display: flex;
